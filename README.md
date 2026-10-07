@@ -19,8 +19,6 @@ Saya terus belajar dan bereksperimen melalui pemrograman. Proyek-proyek saya men
 
 - [Klasifikasi Citra Bunga dengan CNN](https://github.com/gramandha/klasifikasi_cnn_citra_bunga) — eksperimen klasifikasi citra menggunakan convolutional neural network.
 - [Prediksi Risiko Diabetes](https://github.com/gramandha/diabetes-logistic-regression) — evaluasi model Logistic Regression untuk klasifikasi risiko diabetes.
-- [Machine Vision](https://github.com/gramandha/machine_vision) — materi dan eksperimen terkait machine vision.
-- [Robot Angklung](https://github.com/gramandha/robot-angklung) — proyek robotika dengan C++.
 - [Uger Kebocoran Sensor](https://github.com/gramandha/Uger-Kebocoran-Sensor) — proyek terkait sensor kebocoran.
 
 ## Publikasi
