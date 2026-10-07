@@ -22,9 +22,6 @@ Saya terus belajar dan bereksperimen melalui pemrograman. Proyek-proyek saya men
 - [Uger Kebocoran Sensor](https://github.com/gramandha/Uger-Kebocoran-Sensor) — proyek terkait sensor kebocoran.
 
 ## Publikasi
-
-**Short-term forecasting of electricity consumption using fuzzy logic**  
-GW Intyanto dan rekan penulis · *Journal of Renewable Energy, Electrical, and Computer Engineering*, 3(2), 44–54 (2023).  
 [Lihat profil Google Scholar](https://scholar.google.com/citations?user=vrmh4RoAAAAJ&hl=id)
 
 ## Temukan saya
