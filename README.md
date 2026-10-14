@@ -15,11 +15,17 @@ Saya terus belajar dan bereksperimen melalui pemrograman. Proyek-proyek saya men
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
+## Dokumen pembelajaran tercatat
+[gramandha-doc](https://gramandha.github.io/gramandha-docs/) — isi terkait ROS dan YOLO
+[protofolio-academic](https://gramandha.github.io/)
+
+
 ## Proyek pilihan
 
 - [Klasifikasi Citra Bunga dengan CNN](https://github.com/gramandha/klasifikasi_cnn_citra_bunga) — eksperimen klasifikasi citra menggunakan convolutional neural network.
 - [Prediksi Risiko Diabetes](https://github.com/gramandha/diabetes-logistic-regression) — evaluasi model Logistic Regression untuk klasifikasi risiko diabetes.
 - [Uger Kebocoran Sensor](https://github.com/gramandha/Uger-Kebocoran-Sensor) — proyek terkait sensor kebocoran.
+- [YOLO26](https://github.com/gramandha/coba-YOLO26) — pengembangan yolo untuk waktu nyata
 
 ## Publikasi
 [Lihat profil Google Scholar](https://scholar.google.com/citations?user=vrmh4RoAAAAJ&hl=id)
