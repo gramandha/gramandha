@@ -15,10 +15,9 @@ Saya terus belajar dan bereksperimen melalui pemrograman. Proyek-proyek saya men
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-## Dokumen pembelajaran tercatat
-- [gramandha-doc](https://gramandha.github.io/gramandha-docs/) — dokumen pembelajaran ROS dan YOLO
+## Situs
 - [protofolio-akademik](https://gramandha.github.io/) — dokumen protofolio akademik
-
+- [gramandha-doc](https://gramandha.github.io/gramandha-docs/) — dokumen pembelajaran ROS dan YOLO
 
 ## Proyek pilihan
 
